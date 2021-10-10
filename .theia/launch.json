@@ -1,0 +1,19 @@
+{
+ "version": "0.2.0",
+ "configurations": [
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Hello",
+        "request": "launch",
+        "mainClass": "com.test.Hello",
+        "projectName": "health-check-vertx"
+    },
+    {
+        "type": "java",
+        "name": "Debug (Attach) - Remote",
+        "request": "attach",
+        "hostName": "localhost",
+        "port": 5005
+    }
+]
+ }
