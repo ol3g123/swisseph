@@ -6,6 +6,13 @@
         "name": "CodeLens (Launch) - Hello",
         "request": "launch",
         "mainClass": "com.test.Hello",
+        "projectName": "swiss-eph-backend"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Hello",
+        "request": "launch",
+        "mainClass": "com.test.Hello",
         "projectName": "health-check-vertx"
     },
     {
